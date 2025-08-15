@@ -10,12 +10,16 @@ For multiple file uploads and order of processing the files is strict then forma
 
 # Assumptions
 It is assumed that user always keeps headers and columns in same order
+# Pre-requisites
+Install node 22 or LTS version
+Run `npm install` from my-react-app folder.
 
 # To run the app locally
 
 ```bash
 npm run dev
 ```
+Reach out to me for login credentials.
 
 # To build the app
 ```bash
